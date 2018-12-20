@@ -1,0 +1,15 @@
+I cancelled Lab 08 and added its weight (8%) to other
+labs and projecs of the course:
+Lab05 + 2%: 
+    Calculator of Rational Numbers: 7% + 2%
+Project01 + 4%: 
+    Grades:
+    5%  + 1%:  constructors, input-output operators, addition for non-negative numbers; accepted problems
+              130, 132, 621
+    10% + 1%: previous requirements + addition and subtraction of signed numbers, increment, decrement
+              operators; accepted problems 133, 134 .
+    15% + 1%: previous requirements + multiplication and comparisons operators; accepted problems
+              2798, 136, 143, 615, 621
+    18% + 1%: previous requirements + division and remainder operators; all problems are accepted.
+Project02 + 2%:
+    class String: 14% + 2%
